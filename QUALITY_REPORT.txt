@@ -1,0 +1,9 @@
+Improved GitHub Pages directory validation
+==========================================
+Total unique URL links: 501
+Group pages: 36
+Largest group page: 69
+Site URL: https://xianjianlwt.github.io/public-brand-resource-directory/
+
+Note: This is still a public external-link directory. For stronger SEO quality,
+turn priority brands into longer original pages with more unique context.
